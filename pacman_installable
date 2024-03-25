@@ -1,0 +1,17 @@
+ansible
+acpi
+amd-ucode
+base
+base-devel
+efibootmgr
+git
+inetutils
+intel-ucode
+linux-firmware
+man-db
+networkmanager
+sudo
+tree
+ttf-dejavu
+wget
+zsh
